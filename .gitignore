@@ -1,0 +1,6 @@
+banking
+bank_server
+bank_client
+*.o
+*.tmp
+core
